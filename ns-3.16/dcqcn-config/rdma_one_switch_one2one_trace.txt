@@ -1,0 +1,9 @@
+3
+0
+1
+2
+
+
+First line: tracing node #
+Node IDs...
+timestamp, node_being_traced, src_ip>dst_ip, u=udp, port#, sequence#, priority
